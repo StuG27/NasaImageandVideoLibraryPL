@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NASA media library PL</string>
+    <string name="preview">preview</string>
+    <string name="keywords_search">Search in NASA media Library</string>
+    <string name="greetings">"Error! Bad request or no network connection!"</string>
+    <string name="error">Loading error! Check your connection and try refreshing the page!</string>
+    <string name="refresh">Refresh!</string>
+</resources>
